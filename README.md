@@ -35,8 +35,6 @@
 * Git
 * Docker integration using dockerfile/docker compose files
 * CI/CD integration using GitHub & Docker
-  * https://github.com/gxgeorgescu/Java-Selenium-Ecomm/actions/runs/8851942435/job/24309634903
-  * Tests are failing in docker container
 
 ## Additional test scenarios for Order Placement
 
